@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Backup CSVs created by the app
+data/backup_*.csv
+data/pre_migration_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+order_id,date,time,day,weekday_weekend,meal_type,food_item,restaurant_name,cuisine_type,platform,quantity,amount_paid,payment_method,excitement_rating,should_order_again,repeat_order,favorite,city,remarks,created_at
+ORD-1B1DA502,2026-06-01,11:00,Monday,Weekday,Breakfast,Masala Dosa,Saptami Pure Veg Kamothe,South Indian,Direct Restaurant,1.0,100.0,UPI,4.0,Yes,No,Yes,Kamothe highway,masala dosa was good,02-06-2026 19:48
+ORD-BC9DE5A4,2026-06-01,13:30,Monday,Weekday,Lunch,Mini Thali,Canteen,Indian,HungerBox,1.0,38.0,UPI,4.0,Yes,No,No,thane,canteen mini thali lunch good option for light meal,02-06-2026 19:52
+ORD-45C24E19,2026-06-01,17:30,Monday,Weekday,Snacks,masala cheese Sandwitch,Canteen,Indian,HungerBox,1.0,43.0,UPI,4.0,Yes,No,No,Thane,Sandwich from canteen good snacks option,02-06-2026 19:54
+ORD-985BDAA1,2026-06-01,17:30,Monday,Weekday,Snacks,tea,canteen,,HungerBox,1.0,13.0,,3.0,Yes,No,No,Mumbai,Masala Tea,02-06-2026 19:56
+ORD-1B601D72,2026-06-01,19:59,Monday,Weekday,Dinner,Bhaji chapati,Bhagvat bliss khanaval 1,Indian,Direct Restaurant,1.0,140.0,UPI,4.0,Yes,No,No,Raodpali,dinner bhaji chapati best option near home,02-06-2026 19:59
+ORD-562E949F,2026-06-02,09:00,Tuesday,Weekday,Breakfast,idli wada,idli near patil grocery store,South Indian,Direct Restaurant,1.0,50.0,UPI,3.0,Yes,No,No,Mumbai,idli was mix okay option from breakfast,02-06-2026 20:01
+ORD-4AF9369F,2026-06-02,14:00,Tuesday,Weekday,Lunch,mini thali and sweet dish,Canteen,,HungerBox,1.0,65.0,,3.0,Yes,No,No,Mumbai,lunch in canteen,02-06-2026 20:04
+ORD-8D14AF18,2026-06-02,20:06,Tuesday,Weekday,Snacks,samosa kachori,bikaner roadpali,Indian,Direct Restaurant,1.0,50.0,UPI,3.0,Maybe,No,No,Roadpali,Onion kachori was not good  and bread patties was okay,02-06-2026 20:06
+ORD-768297CF,2026-06-03,19:43,Wednesday,Weekday,Lunch,Upwas Thalipeeth,Udpi express kharghar,Other,Zomato,1.0,205.0,Credit Card,4.0,Yes,No,No,Mumbai,upwas food,2026-06-03 19:43:02
+ORD-E4EA271D,2026-06-03,19:45,Wednesday,Weekday,Snacks,upwas potato fries and lassi,Avida,Other,Zomato,1.0,290.0,Credit Card,4.0,Yes,No,No,Mumbai,"lassi is good , French fries good , good packing",2026-06-03 19:45:01

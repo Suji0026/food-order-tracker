@@ -1,0 +1,58 @@
+order_id,date,time,day,weekday_weekend,meal_type,food_item,restaurant_name,cuisine_type,platform,quantity,amount_paid,payment_method,excitement_rating,should_order_again,repeat_order,favorite,city,remarks,created_at
+ORD-43B4EC1C,2025-12-21,21:54,Sunday,Weekend,Dinner,Grilled Sandwich,MTR,Fast Food,EatClub,1.0,593.68,Cash,4.0,Yes,No,Yes,Thane,Average taste,2026-06-03 03:08:27
+ORD-746289EA,2026-02-22,13:23,Sunday,Weekend,Lunch,Fried Rice,Home Kitchen,Chinese,Zomato,1.0,475.37,UPI,5.0,No,No,No,Mumbai,Delivered on time,2026-06-03 03:08:27
+ORD-92F2E539,2026-02-17,17:45,Tuesday,Weekday,Snacks,Poha,MTR,Indian,HungerBox,3.0,373.5,Debit Card,5.0,No,No,No,Thane,Will reorder,2026-06-03 03:08:27
+ORD-61D6E43D,2026-02-21,08:07,Saturday,Weekend,Breakfast,Veg Biryani,Burger King,Indian,Swiggy,3.0,243.6,Cash,4.0,No,Yes,No,Thane,Average taste,2026-06-03 03:08:27
+ORD-322DC643,2026-05-26,21:19,Tuesday,Weekday,Dinner,Chicken Biryani,Behrouz Biryani,Indian,Zomato,1.0,387.84,Cash,5.0,Maybe,No,No,Mumbai,Food was cold,2026-06-03 03:08:27
+ORD-44B77743,2025-12-29,20:29,Monday,Weekday,Dinner,Chicken Wrap,MTR,Fast Food,EatClub,2.0,318.8,Wallet,4.0,Maybe,No,No,Navi Mumbai,,2026-06-03 03:08:27
+ORD-B97E8E9F,2026-05-19,19:55,Tuesday,Weekday,Dinner,Idli Sambar,Behrouz Biryani,South Indian,Zomato,1.0,184.2,Wallet,3.0,No,No,No,Mumbai,Loved it!,2026-06-03 03:08:27
+ORD-E12BF860,2026-05-12,12:56,Tuesday,Weekday,Lunch,Hakka Noodles,Domino's,Chinese,Swiggy,1.0,249.31,Cash,5.0,Maybe,No,No,Thane,Good value for money,2026-06-03 03:08:27
+ORD-5F10AC59,2025-12-15,17:00,Monday,Weekday,Snacks,Butter Chicken,Sagar Ratna,North Indian,Swiggy,1.0,548.41,Other,5.0,Yes,No,No,Navi Mumbai,,2026-06-03 03:08:27
+ORD-D5D0A5F8,2025-12-29,08:17,Monday,Weekday,Breakfast,Grilled Sandwich,Box8,Fast Food,EatClub,1.0,271.39,Cash,3.0,No,No,No,Mumbai,,2026-06-03 03:08:27
+ORD-366DA481,2026-04-28,09:12,Tuesday,Weekday,Breakfast,Thali,Chaayos,Indian,Direct Restaurant,1.0,520.1,Net Banking,5.0,Maybe,No,No,Mumbai,Fresh food,2026-06-03 03:08:27
+ORD-88DB8AC9,2026-02-10,07:00,Tuesday,Weekday,Breakfast,Poha,Behrouz Biryani,Indian,HungerBox,1.0,300.09,Credit Card,5.0,No,Yes,Yes,Mumbai,Great packaging,2026-06-03 03:08:27
+ORD-D1377AE6,2026-04-29,20:22,Wednesday,Weekday,Dinner,Spring Rolls,Sagar Ratna,Chinese,Zomato,2.0,290.56,Debit Card,2.0,Yes,No,No,Thane,,2026-06-03 03:08:27
+ORD-BFB47F86,2026-03-30,19:09,Monday,Weekday,Dinner,Paneer Roll,KFC,North Indian,Zomato,1.0,258.13,Cash,2.0,Yes,No,Yes,Thane,Fresh food,2026-06-03 03:08:27
+ORD-5B7437F4,2026-03-01,08:20,Sunday,Weekend,Breakfast,Veg Biryani,Wow Momo,Indian,Swiggy,3.0,405.68,Wallet,2.0,Maybe,No,No,Thane,Average taste,2026-06-03 03:08:27
+ORD-B5FF2D47,2026-05-05,12:52,Tuesday,Weekday,Lunch,Chicken Biryani,McDonald's,Indian,Zomato,2.0,336.65,Cash,5.0,No,Yes,No,Navi Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-8F52CA89,2025-12-21,22:00,Sunday,Weekend,Dinner,Butter Chicken,Punjab Grill,North Indian,Swiggy,1.0,309.72,UPI,4.0,Maybe,No,No,Mumbai,,2026-06-03 03:08:27
+ORD-2B3F2583,2026-02-04,22:01,Wednesday,Weekday,Dinner,Dal Makhani,McDonald's,North Indian,HungerBox,2.0,139.56,UPI,2.0,Maybe,No,No,Thane,Will reorder,2026-06-03 03:08:27
+ORD-998EC2B2,2025-12-18,17:39,Thursday,Weekday,Snacks,Fried Rice,Behrouz Biryani,Chinese,Zomato,1.0,410.1,Net Banking,3.0,Yes,No,Yes,Navi Mumbai,,2026-06-03 03:08:27
+ORD-1A652E27,2026-03-08,09:02,Sunday,Weekend,Breakfast,Pasta Arrabbiata,Fassos,Italian,Direct Restaurant,1.0,355.11,Other,3.0,Yes,Yes,Yes,Mumbai,,2026-06-03 03:08:27
+ORD-4A23AC92,2026-02-05,13:08,Thursday,Weekday,Lunch,Veg Burger,Subway,Fast Food,Zomato,1.0,431.07,Credit Card,2.0,Yes,No,Yes,Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-9A4A7C61,2025-12-07,16:06,Sunday,Weekend,Snacks,Fried Rice,Fassos,Chinese,Zomato,3.0,247.82,Net Banking,4.0,No,No,Yes,Mumbai,,2026-06-03 03:08:27
+ORD-F150628B,2026-02-03,12:43,Tuesday,Weekday,Lunch,Poha,Burger King,Indian,HungerBox,2.0,115.21,UPI,3.0,Yes,No,Yes,Thane,,2026-06-03 03:08:27
+ORD-D2004F23,2026-02-07,12:32,Saturday,Weekend,Lunch,Spring Rolls,Haldiram's,Chinese,Zomato,3.0,129.97,Other,3.0,Maybe,Yes,No,Thane,Will reorder,2026-06-03 03:08:27
+ORD-730AE946,2026-02-05,19:41,Thursday,Weekday,Dinner,Thali,Behrouz Biryani,Indian,Direct Restaurant,3.0,301.99,Debit Card,4.0,Yes,No,Yes,Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-A3BFABF8,2025-12-26,20:10,Friday,Weekday,Dinner,Hakka Noodles,Burger King,Chinese,Swiggy,1.0,186.25,Net Banking,3.0,Maybe,No,No,Mumbai,Great packaging,2026-06-03 03:08:27
+ORD-D2FFEBD0,2026-05-27,17:22,Wednesday,Weekday,Snacks,Chole Bhature,Haldiram's,North Indian,Direct Restaurant,1.0,267.95,UPI,5.0,Maybe,No,No,Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-78A04F09,2025-12-31,19:21,Wednesday,Weekday,Dinner,Grilled Sandwich,Fassos,Fast Food,EatClub,2.0,288.87,Net Banking,5.0,No,No,Yes,Navi Mumbai,Will reorder,2026-06-03 03:08:27
+ORD-6C12F52F,2026-04-14,07:02,Tuesday,Weekday,Breakfast,Spring Rolls,Burger King,Chinese,Zomato,2.0,459.2,Wallet,2.0,No,No,No,Thane,Food was cold,2026-06-03 03:08:27
+ORD-D11653DF,2026-03-13,16:08,Friday,Weekday,Snacks,Pasta Arrabbiata,McDonald's,Italian,Direct Restaurant,2.0,205.83,Credit Card,5.0,Yes,No,No,Navi Mumbai,,2026-06-03 03:08:27
+ORD-B8406223,2025-12-28,09:43,Sunday,Weekend,Breakfast,Hakka Noodles,Domino's,Chinese,Swiggy,1.0,524.96,Other,5.0,No,No,No,Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-824565D0,2026-03-07,07:17,Saturday,Weekend,Breakfast,Veg Biryani,McDonald's,Indian,Swiggy,3.0,260.73,Other,5.0,Maybe,No,Yes,Mumbai,,2026-06-03 03:08:27
+ORD-F1408E8E,2026-03-13,12:19,Friday,Weekday,Lunch,Paratha,MTR,North Indian,Direct Restaurant,1.0,583.84,Cash,5.0,No,No,No,Mumbai,Will reorder,2026-06-03 03:08:27
+ORD-16B60CBE,2026-02-18,12:28,Wednesday,Weekday,Lunch,Hakka Noodles,Haldiram's,Chinese,Swiggy,1.0,116.62,Credit Card,4.0,Maybe,Yes,Yes,Navi Mumbai,Will reorder,2026-06-03 03:08:27
+ORD-8B5B6943,2025-12-11,09:05,Thursday,Weekday,Breakfast,Masala Dosa,Wow Momo,South Indian,Zomato,3.0,264.57,UPI,3.0,No,No,No,Mumbai,Will reorder,2026-06-03 03:08:27
+ORD-49C4BD12,2026-01-27,09:57,Tuesday,Weekday,Breakfast,Chicken Wrap,Fassos,Fast Food,EatClub,2.0,575.82,Net Banking,5.0,Maybe,Yes,No,Mumbai,Fresh food,2026-06-03 03:08:27
+ORD-6CBAA89F,2025-12-23,07:29,Tuesday,Weekday,Breakfast,Pasta Arrabbiata,Subway,Italian,Direct Restaurant,2.0,370.51,Net Banking,3.0,No,Yes,No,Mumbai,Average taste,2026-06-03 03:08:27
+ORD-36235CD0,2026-03-25,21:55,Wednesday,Weekday,Dinner,Chole Bhature,Cafe Coffee Day,North Indian,Direct Restaurant,2.0,383.52,Net Banking,5.0,Maybe,No,Yes,Navi Mumbai,Good value for money,2026-06-03 03:08:27
+ORD-910BA818,2025-12-09,13:54,Tuesday,Weekday,Lunch,Veg Biryani,Home Kitchen,Indian,Swiggy,1.0,257.32,Debit Card,2.0,No,No,Yes,Mumbai,Great packaging,2026-06-03 03:08:27
+ORD-1B9CAE22,2026-03-27,16:20,Friday,Weekday,Snacks,Spring Rolls,Punjab Grill,Chinese,Zomato,1.0,290.67,Cash,5.0,Yes,No,Yes,Mumbai,Great packaging,2026-06-03 03:08:27
+ORD-1B1DA502,2026-06-01,11:00,Monday,Weekday,Breakfast,Masala Dosa,Saptami Pure Veg Kamothe,South Indian,Direct Restaurant,1.0,100.0,UPI,4.0,Yes,No,Yes,Kamothe highway,masala dosa was good,02-06-2026 19:48
+ORD-BC9DE5A4,2026-06-01,13:30,Monday,Weekday,Lunch,Mini Thali,Canteen,Indian,HungerBox,1.0,38.0,UPI,4.0,Yes,No,No,thane,canteen mini thali lunch good option for light meal,02-06-2026 19:52
+ORD-45C24E19,2026-06-01,17:30,Monday,Weekday,Snacks,masala cheese Sandwitch,Canteen,Indian,HungerBox,1.0,43.0,UPI,4.0,Yes,No,No,Thane,Sandwich from canteen good snacks option,02-06-2026 19:54
+ORD-985BDAA1,2026-06-01,17:30,Monday,Weekday,Snacks,tea,canteen,,HungerBox,1.0,13.0,,3.0,Yes,No,No,Mumbai,Masala Tea,02-06-2026 19:56
+ORD-1B601D72,2026-06-01,19:59,Monday,Weekday,Dinner,Bhaji chapati,Bhagvat bliss khanaval 1,Indian,Direct Restaurant,1.0,140.0,UPI,4.0,Yes,No,No,Raodpali,dinner bhaji chapati best option near home,02-06-2026 19:59
+ORD-562E949F,2026-06-02,09:00,Tuesday,Weekday,Breakfast,idli wada,idli near patil grocery store,South Indian,Direct Restaurant,1.0,50.0,UPI,3.0,Yes,No,No,Mumbai,idli was mix okay option from breakfast,02-06-2026 20:01
+ORD-4AF9369F,2026-06-02,14:00,Tuesday,Weekday,Lunch,mini thali and sweet dish,Canteen,,HungerBox,1.0,65.0,,3.0,Yes,No,No,Mumbai,lunch in canteen,02-06-2026 20:04
+ORD-8D14AF18,2026-06-02,20:06,Tuesday,Weekday,Snacks,samosa kachori,bikaner roadpali,Indian,Direct Restaurant,1.0,50.0,UPI,3.0,Maybe,No,No,Roadpali,Onion kachori was not good  and bread patties was okay,02-06-2026 20:06
+ORD-768297CF,2026-06-03,19:43,Wednesday,Weekday,Lunch,Upwas Thalipeeth,Udpi express kharghar,Other,Zomato,1.0,205.0,Credit Card,4.0,Yes,No,No,Mumbai,upwas food,2026-06-03 19:43:02
+ORD-E4EA271D,2026-06-03,19:45,Wednesday,Weekday,Snacks,upwas potato fries and lassi,Avida,Other,Zomato,1.0,290.0,Credit Card,4.0,Yes,No,No,Mumbai,"lassi is good , French fries good , good packing",2026-06-03 19:45:01
+ORD-A525B439,2026-06-07,18:33,Sunday,Weekend,Lunch,Maswadi Thali & misal,Hindvi Kamothe,Indian,Zomato,1.0,352.0,Credit Card,4.0,Yes,No,No,Kamothe,"Maswadi  and Misal  good but spicy option , usually available on Sunday brunch",2026-06-07 18:33:34
+ORD-B32C8BC8,2026-06-06,18:35,Saturday,Weekend,Breakfast,alu Paratha,local opposite police headquarter ground,Indian,Direct Restaurant,1.0,35.0,,4.0,No,No,No,Roadpali,"paratha okay not hygienic , not tasty , once in week ok option",2026-06-07 18:35:37
+ORD-FE92BC36,2026-06-06,18:37,Saturday,Weekend,Snacks,Veg Cheese Grilled jumbo sandwitch,Gupta Sandwitch,Indian,Direct Restaurant,1.0,150.0,UPI,5.0,Yes,No,No,Mumbai,"good snacks option , full meal quantity for one , ordered on phone call",2026-06-07 18:37:38
+ORD-504BBCD9,2026-06-05,18:39,Friday,Weekday,Dinner,Veg Thali,Bhagwati Bliss khanaval,Indian,Direct Restaurant,1.0,150.0,UPI,5.0,Yes,No,No,Roadpali,"full meal thali , too much in 150 rupees , good option for hungry dinner time",2026-06-07 18:39:35
+ORD-9C382DD5,2026-06-05,18:42,Friday,Weekday,Lunch,Veg Biryani,canteen,South Indian,HungerBox,1.0,74.0,UPI,3.0,No,No,No,Thane ofc,"too much quantity , ok taste , ok option once in while for hungry lunch time",2026-06-07 18:42:13
+ORD-59ACC7BB,2026-06-05,18:43,Friday,Weekday,Snacks,Dabeli,canteen,Street Food,HungerBox,1.0,17.0,UPI,4.0,Yes,No,No,Thane ofc,"okay , good for a change option in canteen",2026-06-07 18:43:24
+ORD-4D6959D7,2026-06-04,18:47,Thursday,Weekday,Lunch,paneer combo,canteen,North Indian,HungerBox,1.0,67.0,UPI,3.0,Maybe,No,No,Thane Ofc,Panner combo is okay option not good,2026-06-07 18:47:34
