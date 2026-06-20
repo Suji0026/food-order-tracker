@@ -85,12 +85,13 @@ hr { border-color: #252525; }
 
 # ── Sidebar navigation ────────────────────────────────────────────────────────
 PAGES = {
-    "🏠 Dashboard":    "dashboard",
-    "➕ Add Order":    "add_order",
-    "✏️ Edit Order":  "edit_order",
-    "🔍 Search Orders":"search_orders",
-    "🗑️ Delete Order": "delete_order",
-    "📊 Analytics":   "analytics_page",
+    "🏠 Dashboard":      "dashboard",
+    "➕ Add Order":      "add_order",
+    "✏️ Edit Order":    "edit_order",
+    "🔍 Search Orders": "search_orders",
+    "🗑️ Delete Order":  "delete_order",
+    "📊 Analytics":     "analytics_page",
+    "🤖 AI Assistant":  "ai_assistant",
 }
 
 with st.sidebar:
@@ -136,5 +137,7 @@ elif module_name == "delete_order":
     from pages.delete_order   import show
 elif module_name == "analytics_page":
     from pages.analytics_page import show
+elif module_name == "ai_assistant":
+    from pages.ai_assistant   import show
 
 show()
