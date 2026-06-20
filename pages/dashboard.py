@@ -39,7 +39,7 @@ def show():
         recent = recent.sort_values("date", ascending=False).head(5)
 
         disp = recent[["date","meal_type","food_item","platform",
-                        "amount_paid","excitement_rating","restaurant_name"]].copy()
+                        "amount_paid","excitement_rating","should_order_again"]].copy()
         disp["date"]              = disp["date"].dt.strftime("%d %b %Y")
         disp["amount_paid"]       = disp["amount_paid"].apply(
             lambda x: f"₹{x:,.0f}" if pd.notna(x) else "—"
@@ -47,7 +47,7 @@ def show():
         disp["excitement_rating"] = disp["excitement_rating"].apply(
             lambda x: "⭐" * int(x) if pd.notna(x) else "—"
         )
-        disp.columns = ["Date","Meal","Food","Platform","Amount","Rating","Restaurant"]
+        disp.columns = ["Date","Meal","Food","Platform","Amount","Rating","Order Again?"]
         st.dataframe(disp, use_container_width=True, hide_index=True)
     else:
         st.info("No orders yet. Use **Add Order** to get started!")

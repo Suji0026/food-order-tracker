@@ -13,3 +13,4 @@ data/pre_migration_*.csv
 # OS files
 .DS_Store
 Thumbs.db
+.streamlit/secrets.toml
